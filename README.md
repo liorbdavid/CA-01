@@ -18,3 +18,5 @@ the slide deck).
 Part 3: For this part, ONLY do the “collinearity” visualization and identification of the
 features that needs to be dropped (feature selection), if any. You DO NOT NEED to do
 the “class imbalance” step, as this has not been covered yet in class.
+
+Authors: Riley Nickel, Taleen Barake, Lior Ben David
